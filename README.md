@@ -4,11 +4,11 @@ This project is a **clean** and **fully functional** 8x8 chessboard layout creat
 
 # Features
 
-8x8 grid layout mimicking a Traditional chessboard.
+♟️8x8 grid layout mimicking a Traditional chessboard.
 
-Alternating black and white cells.
+⬜⬛ Alternating black and white cells.
 
-Scalable Design using modern CSS techniques.
+📐Scalable Design using modern CSS techniques.
 
 # Technologies Used
 
