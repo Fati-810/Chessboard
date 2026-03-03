@@ -4,13 +4,27 @@
 <head>
   <title>Chessboard</title>
   <style>
-    .container {
+   /* .container {
       width: 800px;
       display: grid;
       grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
       grid-template-rows: 1fr 1fr 1fr 1fr 1fr 1fr 1fr 1fr;
     }
+*/
+       body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
 
+.container {
+  width: 800px;
+  display: grid;
+  grid-template-columns: repeat(8, 1fr);
+  grid-template-rows: repeat(8, 1fr);
+}
     .white {
       height: 100px;
       width: 100px;
