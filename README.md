@@ -10,13 +10,13 @@ This project is a **clean** and **fully functional** 8x8 chessboard layout creat
 
 📐 Scalable Design using modern CSS techniques.
 
-## Technologies Used:(Behind the Scenes)
+## Technologies Used: (Behind the Scenes)
 
 HTML5
 
 CSS3 (Grid Layout)
 
-# Preview: 
+## Preview: 
 https://fati-810.github.io/Chessboard/
 
 ## Contact:
